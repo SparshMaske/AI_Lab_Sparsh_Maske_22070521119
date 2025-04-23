@@ -1,7 +1,7 @@
 # 🧠 Artificial Intelligence Lab Portfolio
 
-**Name:** Pradyumn Waghmare  
-**PRN:** 23070521504  
+**Name:** Sparsh Maske 
+**PRN:** 22070521119  
 **Institution:** Symbiosis Institute of Technology
 **Course:** Artificial Intelligence Lab
 
@@ -30,6 +30,9 @@
 |------------|-------|--------------|--------------|
 | 09 | [Robot Traversal](assignments/09_perceptron/) | Neural networks | Perceptron |
 | 10 | [Tic-Tac-Toe AI](assignments/10_tictactoe/) | Game theory | Minimax algorithm |
+
+**Dataset link for AI_Project : 
+https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset**
 
 ---
 
@@ -70,6 +73,7 @@ By completing this lab portfolio, I have gained:
    - Professional Python development
    - Machine learning model deployment
    - Data visualization techniques
+
 
 ---
 
